@@ -1,4 +1,4 @@
-# Green Mountain Wildlife Services
+# GM Wildlife Services
 
 This is a simple site, bootstrapped with [Create React App](https://github.com/facebook/create-react-app) that uses [Bootstrap 4](https://getbootstrap.com/) for a CSS framework.
 
