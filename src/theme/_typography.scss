@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface&family=Raleway&display=swap");
+
+/*===================================================================*/
+/*
+/* TYPOGRAPHY
+/*
+/*===================================================================*/
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Abril Fatface", Helvetica, Arial, sans-serif;
+  letter-spacing: 0.025em;
+  word-wrap: break-word;
+}
+
+p,
+div,
+ul,
+ol,
+blockquote {
+  font-family: "Raleway", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Abril Fatface", sans-serif;
+}

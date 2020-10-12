@@ -1,0 +1,13 @@
+.hero {
+  .jumbotron {
+    background-image: url("../assets/winterbarn-1313903-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: soft-light;
+
+    .logo {
+      max-width: 100%;
+    }
+  }
+}
