@@ -32,7 +32,7 @@ function Intro() {
         </div>
       </div>
 
-      <Container className="py-5">
+      <Container className="team-photos py-5">
         <Row>
           <Col xs={4}>
             <Image src={skunk} roundedCircle fluid />
